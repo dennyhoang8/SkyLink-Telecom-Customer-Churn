@@ -33,4 +33,4 @@ This project demonstrates the complete machine learning lifecycle, including:
 
 ## Project Status
 
-🚧 In Progress
+In Progress
